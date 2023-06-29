@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop django rest framework
 a shop api with django rest framework
 
@@ -177,3 +178,6 @@ ___
 - [ ] add educational blog
 - [ ] beautify the code
 - [ ] add the frontend
+=======
+# shop-django-rest-framework
+>>>>>>> 028628e9457820aa800cbb82626bfe86dfa66d17
